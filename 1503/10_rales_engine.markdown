@@ -78,8 +78,8 @@ Production:
 
 ### Drew Reynolds
 
-Github: https://github.com/NYDrewReynolds/rales_engine
-Production: https://drew-rales-engine.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -111,8 +111,8 @@ Production:
 
 ### Rick Bacci
 
-Github: https://github.com/RickBacci/rails_engine
-Production: https://rails-engine-175.herokuapp.com/
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -133,8 +133,8 @@ Production:
 
 ### Max Tedford
 
-Github:
-Production:
+Github: https://github.com/maxtedford/rales_engine
+Production: https://providing-api.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
